@@ -1,0 +1,4 @@
+In this project, I will use a Markov chain as a statistical model of a stock'sperformance.
+Through this, I will determine the likelihood that a stock will go up or down by building this model from the history of the stock's behavior. 
+To make this prediction, I have constructed an nth order Markov chain using the history of these changes for
+2 years for each of two stocks, Google (GOOG) and First Solar Inc. (FSLR), and for a stock index, the Dow Jones Industrial Average (DJIA).
